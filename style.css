@@ -469,6 +469,10 @@ form button:hover {
         margin-bottom: 80px;
     }
 
+    .fw h1 {
+        font-weight: 900;
+    }
+
     /* ABOUT */
     .about {
         padding-top: 80px;
