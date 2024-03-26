@@ -184,10 +184,10 @@ body {
     width: 40px;
     transition: .2s;
     cursor: pointer;
-    padding-left: 10px;
+    padding-left: 8px;
 }
 
-#js-img {
+#html-img {
     padding-left: 0px;
 }
 
